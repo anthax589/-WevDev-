@@ -91,6 +91,12 @@ table {
     border-collapse: collapse;
 }
 
+.Leaderboard{
+    width: 20%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
 table h2 {
     text-align: center;
     font-size: 1.5rem;
